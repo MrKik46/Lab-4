@@ -6,16 +6,6 @@
 
 int main()
 {
-   /* int arr[] = {8, 7, 6, 5, 4, 3, 2, 1};
-    int array_size = 8;
-
-    heap_sort(arr, array_size);
-
-    for (int i = 0; i < array_size; i++) {
-        std::cout << arr[i] << " ";
-    }
-    std::cout << std::endl;*/
-
     graph gr(100);
 
     gr.AddEdge(0, 5);
